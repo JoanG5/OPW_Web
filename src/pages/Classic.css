@@ -1,0 +1,6 @@
+.attempt {
+    display: 'flex';
+    padding: 3em;
+    background-color: blue;
+    margin: 1em;
+}

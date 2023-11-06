@@ -1,0 +1,7 @@
+.d-grid {
+    margin-top: 1em;
+}
+
+.d-grid > button {
+    padding: 2em;
+}
