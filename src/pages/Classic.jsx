@@ -1,6 +1,8 @@
 import React, { useState } from "react"
 import "./Classic.css"
 
+import AttemptCard from "../components/attemptcard";
+
 export default function Classic() {
 
     const [submit, setSubmit] = useState('');
@@ -41,9 +43,32 @@ export default function Classic() {
                     Enter
                 </button>
             </div>
+            <div id="container">
+                <div className="item">
+                    Character
+                </div> 
+                <div className="item">
+                    Devil Fruit
+                </div>
+                <div className="item">
+                    Debut
+                </div>
+                <div className="item">
+                    Status
+                </div>
+                <div className="item">
+                    Bounty
+                </div>
+                <div className="item">
+                    Origin
+                </div>
+            </div>
             <div>
             {div.map((text, index) => (
-                <div className="attempt" key={index}>{text}</div>
+                <AttemptCard
+                index = {index}
+                character = {text}
+                />
                 ))}
             </div>
         </div>
