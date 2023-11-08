@@ -1,13 +1,10 @@
 import React, { useState } from "react"
 import "./Classic.css"
 
-import data from "../data/characters.json"
-
 import AttemptCard from "../components/attemptcard";
 import SearchBar from "../components/SearchBar";
 
 export default function Classic() {
-
     const [div, setDiv] = useState([]);
     return (
         <div id="classic">
@@ -36,11 +33,11 @@ export default function Classic() {
                 </div>
             </div>
             <div>
-            {div.map((text, index) => (
+            {div.length > 0 && div.map((text, index) => (
                 <AttemptCard
-                index = {index}
+                index = {index} 
                 character = {text}
-                // submit = {div[div.length - 1]}
+                submit = {div[div.indexOf(text)]}
                 />
                 ))}
             </div>

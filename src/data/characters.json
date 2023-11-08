@@ -10,7 +10,7 @@
         ],
         "bounty": "3,000,000,000",
         "race": [],
-        "origin": "East Blue (Goa Kingdom)[1]",
+        "origin": "East Blue (Goa Kingdom)",
         "image": "https://static.wikia.nocookie.net/onepiece/images/6/6d/Monkey_D._Luffy_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/239?cb=20200429191518"
     },
     {
@@ -24,7 +24,7 @@
         ],
         "bounty": "1,111,000,000",
         "race": [],
-        "origin": "East Blue[7]",
+        "origin": "East Blue",
         "image": "https://static.wikia.nocookie.net/onepiece/images/5/52/Roronoa_Zoro_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/188?cb=20141008195159"
     },
     {
@@ -38,7 +38,7 @@
         ],
         "bounty": "366,000,000",
         "race": [],
-        "origin": "East Blue (Conomi Islands)[7]",
+        "origin": "East Blue (Conomi Islands)",
         "image": "https://static.wikia.nocookie.net/onepiece/images/6/68/Nami_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/298?cb=20190720162446"
     },
     {
@@ -52,7 +52,7 @@
         ],
         "bounty": "500,000,000",
         "race": [],
-        "origin": "East Blue (Gecko Islands)[4]",
+        "origin": "East Blue (Gecko Islands)",
         "image": "https://static.wikia.nocookie.net/onepiece/images/3/35/Usopp_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/269?cb=20221127233827"
     },
     {
@@ -66,7 +66,7 @@
         ],
         "bounty": "1,032,000,000",
         "race": [],
-        "origin": "North Blue[7]",
+        "origin": "North Blue",
         "image": "https://static.wikia.nocookie.net/onepiece/images/b/b6/Sanji_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/167?cb=20170625125657"
     },
     {
@@ -80,7 +80,7 @@
         ],
         "bounty": "1,000",
         "race": [],
-        "origin": "Grand Line (Drum Island)[1]",
+        "origin": "Grand Line (Drum Island)",
         "image": "https://static.wikia.nocookie.net/onepiece/images/a/af/Tony_Tony_Chopper_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/350?cb=20130428202154"
     },
     {
@@ -94,7 +94,7 @@
         ],
         "bounty": "930,000,000",
         "race": [],
-        "origin": "West Blue[6]",
+        "origin": "West Blue",
         "image": "https://static.wikia.nocookie.net/onepiece/images/b/bc/Nico_Robin_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/257?cb=20190202051257"
     },
     {
@@ -108,7 +108,7 @@
         ],
         "bounty": "394,000,000",
         "race": [],
-        "origin": "South Blue[4]",
+        "origin": "South Blue",
         "image": "https://static.wikia.nocookie.net/onepiece/images/8/8c/Franky_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/350?cb=20130225034035"
     },
     {
@@ -122,7 +122,7 @@
         ],
         "bounty": "383,000,000",
         "race": [],
-        "origin": "West Blue[5]",
+        "origin": "West Blue",
         "image": "https://static.wikia.nocookie.net/onepiece/images/4/41/Brook_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/214?cb=20161016160925"
     },
     {
@@ -136,7 +136,7 @@
         ],
         "bounty": "1,100,000,000",
         "race": [],
-        "origin": "Grand Line (Ryugu Kingdom, Fish-Man Island)[10]",
+        "origin": "Grand Line (Ryugu Kingdom, Fish-Man Island)",
         "image": "https://static.wikia.nocookie.net/onepiece/images/8/81/Jinbe_Anime_Infobox.png/revision/latest/scale-to-width-down/350?cb=20170521201349"
     },
     {
@@ -150,7 +150,7 @@
         ],
         "bounty": "5,564,800,000",
         "race": [],
-        "origin": "East Blue (Loguetown)[2][3]",
+        "origin": "East Blue (Loguetown)",
         "image": "https://static.wikia.nocookie.net/onepiece/images/2/24/Gol_D._Roger_Anime_Infobox.png/revision/latest/scale-to-width-down/350?cb=20230612100153"
     },
     {
@@ -192,7 +192,7 @@
         ],
         "bounty": "1,659,000,000",
         "race": [],
-        "origin": "Calm Belt (Amazon Lily)[3]",
+        "origin": "Calm Belt (Amazon Lily)",
         "image": "https://static.wikia.nocookie.net/onepiece/images/f/f0/Boa_Hancock_Anime_Infobox.png/revision/latest/scale-to-width-down/242?cb=20230126022456"
     },
     {
@@ -206,14 +206,14 @@
         ],
         "bounty": "3,189,000,000",
         "race": [],
-        "origin": "Grand Line[12]",
+        "origin": "Grand Line",
         "image": "https://static.wikia.nocookie.net/onepiece/images/f/f7/Buggy_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/350?cb=20231022135508"
     },
     {
         "id": 15,
         "name": "Dracule Mihawk",
         "eng_fruit": [],
-        "jpn_fruit": "(\u9df9\u306e\u76ee\u306e\u30df\u30db\u30fc\u30af, Taka no Mi",
+        "jpn_fruit": "Taka no Mi",
         "debut": "Chapter 49",
         "status": [
             "Pirate"
@@ -234,7 +234,7 @@
         ],
         "bounty": "4,048,900,000",
         "race": [],
-        "origin": "West Blue[6]",
+        "origin": "West Blue",
         "image": "https://static.wikia.nocookie.net/onepiece/images/6/66/Shanks_Anime_Infobox.png/revision/latest/scale-to-width-down/350?cb=20230201001138"
     },
     {
@@ -248,7 +248,7 @@
         ],
         "bounty": "3,996,000,000",
         "race": [],
-        "origin": "Grand Line[9]",
+        "origin": "Grand Line",
         "image": "https://static.wikia.nocookie.net/onepiece/images/f/ff/Marshall_D._Teach_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/350?cb=20230406004248"
     },
     {
@@ -276,7 +276,7 @@
         ],
         "bounty": "4,611,100,000",
         "race": [],
-        "origin": "Grand Line[8]",
+        "origin": "Grand Line",
         "image": "https://static.wikia.nocookie.net/onepiece/images/2/2d/Kaidou_Anime_Infobox.png/revision/latest/scale-to-width-down/350?cb=20231102015517"
     },
     {
@@ -290,7 +290,7 @@
         ],
         "bounty": "4,388,000,000",
         "race": [],
-        "origin": "Grand Line[17]",
+        "origin": "Grand Line",
         "image": "https://static.wikia.nocookie.net/onepiece/images/d/d8/Charlotte_Linlin_Anime_Infobox.png/revision/latest/scale-to-width-down/350?cb=20180423150804"
     },
     {
@@ -304,7 +304,7 @@
         ],
         "bounty": [],
         "race": [],
-        "origin": "North Blue[4]",
+        "origin": "North Blue",
         "image": "https://static.wikia.nocookie.net/onepiece/images/d/d7/Sakazuki_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/299?cb=20220829052511"
     },
     {
@@ -318,7 +318,7 @@
         ],
         "bounty": [],
         "race": [],
-        "origin": "South Blue[7]",
+        "origin": "South Blue",
         "image": "https://static.wikia.nocookie.net/onepiece/images/d/d6/Kuzan_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/242?cb=20130902174645"
     },
     {
@@ -332,7 +332,7 @@
         ],
         "bounty": "(3,000,000,000)",
         "race": [],
-        "origin": "North Blue[4]",
+        "origin": "North Blue",
         "image": "https://static.wikia.nocookie.net/onepiece/images/1/14/Borsalino_Anime_Infobox.png/revision/latest/scale-to-width-down/248?cb=20190603023753"
     },
     {
@@ -346,7 +346,7 @@
         ],
         "bounty": [],
         "race": [],
-        "origin": "Grand Line[5]",
+        "origin": "Grand Line",
         "image": "https://static.wikia.nocookie.net/onepiece/images/c/c4/Smoker_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/350?cb=20221101011905"
     },
     {
@@ -360,7 +360,7 @@
         ],
         "bounty": "340,000,000",
         "race": [],
-        "origin": "Red Line (Mary Geoise)[7]",
+        "origin": "Red Line (Mary Geoise)",
         "image": "https://static.wikia.nocookie.net/onepiece/images/7/7e/Donquixote_Doflamingo_Anime_Infobox.png/revision/latest/scale-to-width-down/350?cb=20231017082245"
     },
     {
@@ -374,7 +374,7 @@
         ],
         "bounty": "1,965,000,000",
         "race": [],
-        "origin": "Grand Line[6]",
+        "origin": "Grand Line",
         "image": "https://static.wikia.nocookie.net/onepiece/images/f/fd/Crocodile_Anime_Infobox.png/revision/latest/scale-to-width-down/350?cb=20230125235528"
     },
     {
@@ -388,7 +388,7 @@
         ],
         "bounty": "3,000,000,000",
         "race": [],
-        "origin": "South Blue[1]",
+        "origin": "South Blue",
         "image": "https://static.wikia.nocookie.net/onepiece/images/4/47/Eustass_Kid_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/350?cb=20220618155553"
     },
     {
@@ -416,7 +416,7 @@
         ],
         "bounty": "320,000,000",
         "race": [],
-        "origin": "North Blue[1]",
+        "origin": "North Blue",
         "image": "https://static.wikia.nocookie.net/onepiece/images/f/f8/Basil_Hawkins_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/350?cb=20230906163534"
     },
     {
@@ -430,7 +430,7 @@
         ],
         "bounty": "320,000,000",
         "race": [],
-        "origin": "South Blue[1]",
+        "origin": "South Blue",
         "image": "https://static.wikia.nocookie.net/onepiece/images/6/62/Jewelry_Bonney_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/333?cb=20230123001318"
     },
     {
@@ -459,7 +459,7 @@
         ],
         "bounty": "330,000,000",
         "race": [],
-        "origin": "Grand Line (Bourgeois Kingdom)[12]",
+        "origin": "Grand Line (Bourgeois Kingdom)",
         "image": "https://static.wikia.nocookie.net/onepiece/images/a/a1/Cavendish_Anime_Infobox.png/revision/latest/scale-to-width-down/257?cb=20140224010824"
     },
     {
@@ -473,7 +473,7 @@
         ],
         "bounty": "200,000,000",
         "race": [],
-        "origin": "East Blue[5]",
+        "origin": "East Blue",
         "image": "https://static.wikia.nocookie.net/onepiece/images/e/eb/Bartolomeo_Anime_Infobox.png/revision/latest/scale-to-width-down/220?cb=20221027202808"
     },
     {
@@ -488,7 +488,7 @@
         ],
         "bounty": "602,000,000",
         "race": [],
-        "origin": "East Blue (Goa Kingdom)[4]",
+        "origin": "East Blue (Goa Kingdom)",
         "image": "https://static.wikia.nocookie.net/onepiece/images/c/c2/Sabo_Anime_Infobox.png/revision/latest/scale-to-width-down/330?cb=20230804035141"
     },
     {
@@ -502,7 +502,7 @@
         ],
         "bounty": [],
         "race": [],
-        "origin": "Grand Line (Dressrosa)[7]",
+        "origin": "Grand Line (Dressrosa)",
         "image": "https://static.wikia.nocookie.net/onepiece/images/f/f6/Rebecca_Anime_Infobox.png/revision/latest/scale-to-width-down/240?cb=20190519094508"
     },
     {
@@ -516,7 +516,7 @@
         ],
         "bounty": [],
         "race": [],
-        "origin": "Grand Line (Arabasta Kingdom)[4]",
+        "origin": "Grand Line (Arabasta Kingdom)",
         "image": "https://static.wikia.nocookie.net/onepiece/images/0/09/Nefertari_Vivi_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/182?cb=20190505023647"
     },
     {
@@ -530,7 +530,7 @@
         ],
         "bounty": [],
         "race": [],
-        "origin": "Grand Line (Mokomo Dukedom)[4]",
+        "origin": "Grand Line (Mokomo Dukedom)",
         "image": "https://static.wikia.nocookie.net/onepiece/images/e/e2/Carrot_Anime_Infobox.png/revision/latest/scale-to-width-down/188?cb=20180826142459"
     },
     {
@@ -558,7 +558,7 @@
         ],
         "bounty": [],
         "race": [],
-        "origin": "East Blue[5]",
+        "origin": "East Blue",
         "image": "https://static.wikia.nocookie.net/onepiece/images/1/1e/Tashigi_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/327?cb=20230909002901"
     },
     {
@@ -572,7 +572,7 @@
         ],
         "bounty": "1,032,000,000",
         "race": [],
-        "origin": "North Blue[7]",
+        "origin": "North Blue",
         "image": "https://static.wikia.nocookie.net/onepiece/images/b/b6/Sanji_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/167?cb=20170625125657"
     },
     {
@@ -586,7 +586,7 @@
         ],
         "bounty": [],
         "race": [],
-        "origin": "Sky Islands (Birka)[2]",
+        "origin": "Sky Islands (Birka)",
         "image": "https://static.wikia.nocookie.net/onepiece/images/a/ad/Enel_Anime_Infobox.png/revision/latest/scale-to-width-down/350?cb=20230520213625"
     },
     {
@@ -594,20 +594,20 @@
         "name": "Monkey D. Garp",
         "eng_fruit": [],
         "jpn_fruit": [],
-        "debut": "Chapter 92 (cover)",
+        "debut": "Chapter 92",
         "status": [
             "No Affiliation"
         ],
         "bounty": "(3,000,000,000)",
         "race": [],
-        "origin": "East Blue (Goa Kingdom)[6]",
+        "origin": "East Blue (Goa Kingdom)",
         "image": "https://static.wikia.nocookie.net/onepiece/images/e/e1/Monkey_D._Garp_Anime_Infobox.png/revision/latest/scale-to-width-down/350?cb=20230207160645"
     },
     {
         "id": 43,
         "name": "Silvers Rayleigh",
         "eng_fruit": [],
-        "jpn_fruit": "(\u6d77\u8cca\u738b\u306e\u53f3\u8155, Kaizoku-\u014c no Mi",
+        "jpn_fruit": [],
         "debut": "Chapter 19",
         "status": [
             "Pirate"
@@ -628,7 +628,7 @@
         ],
         "bounty": [],
         "race": [],
-        "origin": "South Blue[7]",
+        "origin": "South Blue",
         "image": "https://static.wikia.nocookie.net/onepiece/images/2/24/Sengoku_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/350?cb=20210208064630"
     },
     {
@@ -641,9 +641,9 @@
             "Pirate",
             "Marine"
         ],
-        "bounty": "\u2605\u2605\u2605\u2605\u2605(500,000,000)",
+        "bounty": "500,000,000",
         "race": [],
-        "origin": "East Blue[7]",
+        "origin": "East Blue",
         "image": "https://static.wikia.nocookie.net/onepiece/images/b/b8/Koby_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/350?cb=20230227233927"
     },
     {
@@ -671,7 +671,7 @@
         ],
         "bounty": [],
         "race": [],
-        "origin": "Grand Line[5]",
+        "origin": "Grand Line",
         "image": "https://static.wikia.nocookie.net/onepiece/images/c/c4/Smoker_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/350?cb=20221101011905"
     },
     {
@@ -685,7 +685,7 @@
         ],
         "bounty": [],
         "race": [],
-        "origin": "East Blue[5]",
+        "origin": "East Blue",
         "image": "https://static.wikia.nocookie.net/onepiece/images/1/1e/Tashigi_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/327?cb=20230909002901"
     },
     {
@@ -698,9 +698,9 @@
             "Pirate",
             "Marine"
         ],
-        "bounty": "\u2605\u2605\u2605\u2605\u2605(500,000,000)",
+        "bounty": "500,000,000",
         "race": [],
-        "origin": "East Blue[7]",
+        "origin": "East Blue",
         "image": "https://static.wikia.nocookie.net/onepiece/images/b/b8/Koby_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/350?cb=20230227233927"
     },
     {
@@ -708,13 +708,13 @@
         "name": "Hina",
         "eng_fruit": "Bind-Bind Fruit",
         "jpn_fruit": "Ori Ori no Mi",
-        "debut": "Chapter 171 (cover)",
+        "debut": "Chapter 171",
         "status": [
             "No Affiliation"
         ],
         "bounty": [],
         "race": [],
-        "origin": "West Blue[5]",
+        "origin": "West Blue",
         "image": "https://static.wikia.nocookie.net/onepiece/images/0/0d/Hina_Anime_Infobox.png/revision/latest/scale-to-width-down/350?cb=20221027015902"
     },
     {
@@ -729,7 +729,7 @@
         ],
         "bounty": [],
         "race": [],
-        "origin": "Red Line (Mary Geoise)[7]",
+        "origin": "Red Line (Mary Geoise)",
         "image": "https://static.wikia.nocookie.net/onepiece/images/7/71/Donquixote_Rosinante_Anime_Infobox.png/revision/latest/scale-to-width-down/337?cb=20150802160734"
     },
     {
@@ -741,9 +741,9 @@
         "status": [
             "Revolutionary"
         ],
-        "bounty": "At least 296,000,000",
+        "bounty": "296,000,000",
         "race": [],
-        "origin": "South Blue (Sorbet Kingdom)[7]",
+        "origin": "South Blue (Sorbet Kingdom)",
         "image": "https://static.wikia.nocookie.net/onepiece/images/8/8d/Bartholomew_Kuma_Anime_Infobox.png/revision/latest/scale-to-width-down/297?cb=20221012030835"
     },
     {
@@ -757,7 +757,7 @@
         ],
         "bounty": [],
         "race": [],
-        "origin": "West Blue[4]",
+        "origin": "West Blue",
         "image": "https://static.wikia.nocookie.net/onepiece/images/4/4a/Perona_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/291?cb=20221124200121"
     },
     {
@@ -771,7 +771,7 @@
         ],
         "bounty": [],
         "race": [],
-        "origin": "Grand Line[4]",
+        "origin": "Grand Line",
         "image": "https://static.wikia.nocookie.net/onepiece/images/9/97/Sentomaru_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/350?cb=20230804030757"
     },
     {
@@ -785,7 +785,7 @@
         ],
         "bounty": [],
         "race": [],
-        "origin": "Grand Line (Drum Kingdom)[2]",
+        "origin": "Grand Line (Drum Kingdom)",
         "image": "https://static.wikia.nocookie.net/onepiece/images/1/1b/Kureha_Anime_Infobox.png/revision/latest/scale-to-width-down/248?cb=20150819163116"
     },
     {
@@ -799,7 +799,7 @@
         ],
         "bounty": [],
         "race": [],
-        "origin": "Grand Line (Drum Kingdom)[4]",
+        "origin": "Grand Line (Drum Kingdom)",
         "image": "https://static.wikia.nocookie.net/onepiece/images/0/07/Dalton_Anime_Infobox.png/revision/latest/scale-to-width-down/350?cb=20230101225126"
     },
     {
@@ -827,7 +827,7 @@
         ],
         "bounty": [],
         "race": [],
-        "origin": "Sky Islands (Skypiea)[5]",
+        "origin": "Sky Islands (Skypiea)",
         "image": "https://static.wikia.nocookie.net/onepiece/images/b/b9/Wyper_Manga_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/274?cb=20170309043945"
     },
     {
@@ -841,7 +841,7 @@
         ],
         "bounty": [],
         "race": [],
-        "origin": "Grand Line[2]",
+        "origin": "Grand Line",
         "image": "https://static.wikia.nocookie.net/onepiece/images/a/ad/Kalgara_Anime_Infobox.png/revision/latest/scale-to-width-down/273?cb=20160526193151"
     },
     {
@@ -855,7 +855,7 @@
         ],
         "bounty": [],
         "race": [],
-        "origin": "Grand Line (Skypiea)[4]",
+        "origin": "Grand Line (Skypiea)",
         "image": "https://static.wikia.nocookie.net/onepiece/images/5/5f/Gan_Fall_Anime_Infobox.png/revision/latest/scale-to-width-down/350?cb=20221111195904"
     },
     {
@@ -869,7 +869,7 @@
         ],
         "bounty": [],
         "race": [],
-        "origin": "Grand Line (Ryugu Kingdom)[7]",
+        "origin": "Grand Line (Ryugu Kingdom)",
         "image": "https://static.wikia.nocookie.net/onepiece/images/c/c1/Shirahoshi_Anime_Infobox.png/revision/latest/scale-to-width-down/350?cb=20130906192848"
     },
     {
@@ -883,7 +883,7 @@
         ],
         "bounty": "230,000,000",
         "race": [],
-        "origin": "Grand Line (Ryugu Kingdom)[5]",
+        "origin": "Grand Line (Ryugu Kingdom)",
         "image": "https://static.wikia.nocookie.net/onepiece/images/c/c5/Fisher_Tiger_Anime_Infobox.png/revision/latest/scale-to-width-down/350?cb=20230214162116"
     },
     {
@@ -911,7 +911,7 @@
         ],
         "bounty": [],
         "race": [],
-        "origin": "Grand Line (Fish-Man Island)[8]",
+        "origin": "Grand Line (Fish-Man Island)",
         "image": "https://static.wikia.nocookie.net/onepiece/images/4/43/Hack_Anime_Infobox.png/revision/latest/scale-to-width-down/350?cb=20230214000914"
     },
     {
@@ -925,7 +925,7 @@
         ],
         "bounty": "1,100,000,000",
         "race": [],
-        "origin": "Grand Line (Ryugu Kingdom, Fish-Man Island)[10]",
+        "origin": "Grand Line (Ryugu Kingdom, Fish-Man Island)",
         "image": "https://static.wikia.nocookie.net/onepiece/images/8/81/Jinbe_Anime_Infobox.png/revision/latest/scale-to-width-down/350?cb=20170521201349"
     },
     {
@@ -953,7 +953,7 @@
         ],
         "bounty": [],
         "race": [],
-        "origin": "Grand Line (Fish-Man Island)[8]",
+        "origin": "Grand Line (Fish-Man Island)",
         "image": "https://static.wikia.nocookie.net/onepiece/images/4/43/Hack_Anime_Infobox.png/revision/latest/scale-to-width-down/350?cb=20230214000914"
     },
     {
@@ -967,7 +967,7 @@
         ],
         "bounty": [],
         "race": [],
-        "origin": "Grand Line[3]",
+        "origin": "Grand Line",
         "image": "https://static.wikia.nocookie.net/onepiece/images/8/86/Duval_Anime_Infobox.png/revision/latest/scale-to-width-down/350?cb=20230707025409"
     },
     {
@@ -981,7 +981,7 @@
         ],
         "bounty": "At least 296,000,000",
         "race": [],
-        "origin": "South Blue (Sorbet Kingdom)[7]",
+        "origin": "South Blue (Sorbet Kingdom)",
         "image": "https://static.wikia.nocookie.net/onepiece/images/8/8d/Bartholomew_Kuma_Anime_Infobox.png/revision/latest/scale-to-width-down/297?cb=20221012030835"
     },
     {
@@ -995,7 +995,7 @@
         ],
         "bounty": [],
         "race": [],
-        "origin": "West Blue[4]",
+        "origin": "West Blue",
         "image": "https://static.wikia.nocookie.net/onepiece/images/4/4a/Perona_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/291?cb=20221124200121"
     },
     {
@@ -1010,7 +1010,7 @@
         ],
         "bounty": [],
         "race": [],
-        "origin": "Red Line (Mary Geoise)[7]",
+        "origin": "Red Line (Mary Geoise)",
         "image": "https://static.wikia.nocookie.net/onepiece/images/7/71/Donquixote_Rosinante_Anime_Infobox.png/revision/latest/scale-to-width-down/337?cb=20150802160734"
     },
     {
@@ -1018,13 +1018,13 @@
         "name": "Hina",
         "eng_fruit": "Bind-Bind Fruit",
         "jpn_fruit": "Ori Ori no Mi",
-        "debut": "Chapter 171 (cover)",
+        "debut": "Chapter 171",
         "status": [
             "No Affiliation"
         ],
         "bounty": [],
         "race": [],
-        "origin": "West Blue[5]",
+        "origin": "West Blue",
         "image": "https://static.wikia.nocookie.net/onepiece/images/0/0d/Hina_Anime_Infobox.png/revision/latest/scale-to-width-down/350?cb=20221027015902"
     },
     {
@@ -1038,7 +1038,7 @@
         ],
         "bounty": "340,000,000",
         "race": [],
-        "origin": "Red Line (Mary Geoise)[7]",
+        "origin": "Red Line (Mary Geoise)",
         "image": "https://static.wikia.nocookie.net/onepiece/images/7/7e/Donquixote_Doflamingo_Anime_Infobox.png/revision/latest/scale-to-width-down/350?cb=20231017082245"
     },
     {
@@ -1052,7 +1052,7 @@
         ],
         "bounty": [],
         "race": [],
-        "origin": "North Blue[5]",
+        "origin": "North Blue",
         "image": "https://static.wikia.nocookie.net/onepiece/images/e/e9/Sugar_Anime_Infobox.png/revision/latest/scale-to-width-down/300?cb=20141005232110"
     },
     {
@@ -1066,7 +1066,7 @@
         ],
         "bounty": "99,000,000",
         "race": [],
-        "origin": "North Blue[4]",
+        "origin": "North Blue",
         "image": "https://static.wikia.nocookie.net/onepiece/images/f/f5/Trebol_Anime_Infobox.png/revision/latest/scale-to-width-down/350?cb=20221117040446"
     },
     {
@@ -1080,7 +1080,7 @@
         ],
         "bounty": [],
         "race": [],
-        "origin": "North Blue[4]",
+        "origin": "North Blue",
         "image": "https://static.wikia.nocookie.net/onepiece/images/e/e1/Baby_5_Anime_Infobox.png/revision/latest/scale-to-width-down/216?cb=20221011013323"
     },
     {
@@ -1094,7 +1094,7 @@
         ],
         "bounty": [],
         "race": [],
-        "origin": "North Blue[4]",
+        "origin": "North Blue",
         "image": "https://static.wikia.nocookie.net/onepiece/images/a/ab/Buffalo_Anime_Infobox.png/revision/latest/scale-to-width-down/350?cb=20131104002420"
     },
     {
@@ -1109,7 +1109,7 @@
         ],
         "bounty": [],
         "race": [],
-        "origin": "North Blue[10]",
+        "origin": "North Blue",
         "image": "https://static.wikia.nocookie.net/onepiece/images/c/cf/Vergo_Anime_Infobox.png/revision/latest/scale-to-width-down/220?cb=20230101232239"
     },
     {
@@ -1123,7 +1123,7 @@
         ],
         "bounty": [],
         "race": [],
-        "origin": "North Blue[4]",
+        "origin": "North Blue",
         "image": "https://static.wikia.nocookie.net/onepiece/images/9/98/Monet_Anime_Infobox.png/revision/latest/scale-to-width-down/321?cb=20140616000310"
     },
     {
@@ -1137,7 +1137,7 @@
         ],
         "bounty": [],
         "race": [],
-        "origin": "Grand Line (Wano Country)[7]",
+        "origin": "Grand Line (Wano Country)",
         "image": "https://static.wikia.nocookie.net/onepiece/images/e/ec/Kin%27emon_Anime_Infobox.png/revision/latest/scale-to-width-down/270?cb=20191124100115"
     },
     {
@@ -1179,7 +1179,7 @@
         ],
         "bounty": [],
         "race": [],
-        "origin": "Grand Line (Mokomo Dukedom)[8]",
+        "origin": "Grand Line (Mokomo Dukedom)",
         "image": "https://static.wikia.nocookie.net/onepiece/images/9/9f/Inuarashi_Anime_Infobox.png/revision/latest/scale-to-width-down/340?cb=20161225210311"
     },
     {
@@ -1193,7 +1193,7 @@
         ],
         "bounty": [],
         "race": [],
-        "origin": "Grand Line (Mokomo Dukedom)[9]",
+        "origin": "Grand Line (Mokomo Dukedom)",
         "image": "https://static.wikia.nocookie.net/onepiece/images/a/a2/Nekomamushi_Anime_Infobox.png/revision/latest/scale-to-width-down/350?cb=20220419121421"
     },
     {
@@ -1207,7 +1207,7 @@
         ],
         "bounty": "1,374,000,000",
         "race": [],
-        "origin": "Grand Line[5]",
+        "origin": "Grand Line",
         "image": "https://static.wikia.nocookie.net/onepiece/images/2/2c/Marco_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/179?cb=20221010015200"
     },
     {
@@ -1221,7 +1221,7 @@
         ],
         "bounty": "Unknown",
         "race": [],
-        "origin": "West Blue[4]",
+        "origin": "West Blue",
         "image": "https://static.wikia.nocookie.net/onepiece/images/6/61/Jozu_Anime_Infobox.png/revision/latest/scale-to-width-down/350?cb=20220702104233"
     },
     {
@@ -1235,7 +1235,7 @@
         ],
         "bounty": "Unknown",
         "race": [],
-        "origin": "North Blue[3]",
+        "origin": "North Blue",
         "image": "https://static.wikia.nocookie.net/onepiece/images/7/78/Vista_Anime_Infobox.png/revision/latest/scale-to-width-down/339?cb=20180131180522"
     },
     {
@@ -1249,7 +1249,7 @@
         ],
         "bounty": [],
         "race": [],
-        "origin": "Grand Line[4]",
+        "origin": "Grand Line",
         "image": "https://static.wikia.nocookie.net/onepiece/images/4/40/Blenheim_Anime_Infobox.png/revision/latest/scale-to-width-down/350?cb=20130315043150"
     },
     {
@@ -1263,7 +1263,7 @@
         ],
         "bounty": [],
         "race": [],
-        "origin": "East Blue[3]",
+        "origin": "East Blue",
         "image": "https://static.wikia.nocookie.net/onepiece/images/4/45/Speed_Jiru_Anime_Infobox.png/revision/latest?cb=20100908105640"
     },
     {
@@ -1277,7 +1277,7 @@
         ],
         "bounty": "510,000,000",
         "race": [],
-        "origin": "Grand Line (Wano Country)[4]",
+        "origin": "Grand Line (Wano Country)",
         "image": "https://static.wikia.nocookie.net/onepiece/images/8/81/Izou_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/318?cb=20210919035558"
     },
     {
@@ -1291,7 +1291,7 @@
         ],
         "bounty": [],
         "race": [],
-        "origin": "North Blue[6]",
+        "origin": "North Blue",
         "image": "https://static.wikia.nocookie.net/onepiece/images/5/55/Oars_Anime_Infobox.png/revision/latest/scale-to-width-down/350?cb=20230528185603"
     },
     {
@@ -1305,7 +1305,7 @@
         ],
         "bounty": "550,000,000",
         "race": [],
-        "origin": "Grand Line[2]",
+        "origin": "Grand Line",
         "image": "https://static.wikia.nocookie.net/onepiece/images/b/bc/Little_Oars_Jr._Anime_Infobox.png/revision/latest/scale-to-width-down/350?cb=20100906175818"
     },
     {
@@ -1319,7 +1319,7 @@
         ],
         "bounty": "24,000,000",
         "race": [],
-        "origin": "Grand Line (Totto Land)[5]",
+        "origin": "Grand Line (Totto Land)",
         "image": "https://static.wikia.nocookie.net/onepiece/images/f/f0/Charlotte_Lola_Manga_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/348?cb=20201012081800"
     },
     {
@@ -1333,7 +1333,7 @@
         ],
         "bounty": [],
         "race": [],
-        "origin": "West Blue[4]",
+        "origin": "West Blue",
         "image": "https://static.wikia.nocookie.net/onepiece/images/5/5f/Victoria_Cindry_Anime_Infobox.png/revision/latest/scale-to-width-down/342?cb=20131110234954"
     },
     {
@@ -1347,7 +1347,7 @@
         ],
         "bounty": [],
         "race": [],
-        "origin": "North Blue[6]",
+        "origin": "North Blue",
         "image": "https://static.wikia.nocookie.net/onepiece/images/5/55/Oars_Anime_Infobox.png/revision/latest/scale-to-width-down/350?cb=20230528185603"
     },
     {
@@ -1361,7 +1361,7 @@
         ],
         "bounty": "320,000,000",
         "race": [],
-        "origin": "West Blue[5]",
+        "origin": "West Blue",
         "image": "https://static.wikia.nocookie.net/onepiece/images/b/be/Gecko_Moria_Anime_Infobox.png/revision/latest/scale-to-width-down/350?cb=20181127062446"
     }
 ]
