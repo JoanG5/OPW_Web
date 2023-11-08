@@ -4,15 +4,15 @@ import './SearchBar.css'
 
 function SearchBar( {div, setDiv} ) {
     const [submit, setSubmit] = useState('');
-    const found = data.find(obj => obj.name === submit); 
+    const found = data.find(obj => obj.name.toLowerCase() === submit.toLowerCase()); 
 
     const handleChange = (e) => {
         setSubmit(e.target.value);
     }
 
     const handleDiv = () => {
-        if (submit.trim () != '' && found) {
-            setDiv(prevDiv => [submit, ...prevDiv,])
+        if (submit.trim() != '' && found && !div.includes(submit.charAt(0).toUpperCase() + submit.slice(1).toLowerCase())) {
+            setDiv(prevDiv => [submit.charAt(0).toUpperCase() + submit.slice(1).toLowerCase(), ...prevDiv,])
             setSubmit('')
             console.log(div)
         }
@@ -25,7 +25,7 @@ function SearchBar( {div, setDiv} ) {
     }
 
     return (
-    <div  id='searchbar' style={{ display: 'flex', justifyContent: 'center' }}>
+    <div id='searchbar' style={{ display: 'flex', justifyContent: 'center' }}>
         <input type="text" 
         value={submit}
         onChange={handleChange}
