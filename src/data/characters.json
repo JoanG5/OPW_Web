@@ -1,0 +1,1367 @@
+[
+    {
+        "id": 0,
+        "name": "Monkey D. Luffy",
+        "eng_fruit": "Gum-Gum Fruit",
+        "jpn_fruit": "Gomu Gomu no Mi",
+        "debut": "Chapter 1",
+        "status": [
+            "Pirate"
+        ],
+        "bounty": "3,000,000,000",
+        "race": [],
+        "origin": "East Blue (Goa Kingdom)",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/6/6d/Monkey_D._Luffy_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/239?cb=20200429191518"
+    },
+    {
+        "id": 1,
+        "name": "Roronoa Zoro",
+        "eng_fruit": [],
+        "jpn_fruit": [],
+        "debut": "Chapter 3",
+        "status": [
+            "Pirate"
+        ],
+        "bounty": "1,111,000,000",
+        "race": [],
+        "origin": "East Blue",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/5/52/Roronoa_Zoro_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/188?cb=20141008195159"
+    },
+    {
+        "id": 2,
+        "name": "Nami",
+        "eng_fruit": [],
+        "jpn_fruit": [],
+        "debut": "Chapter 8",
+        "status": [
+            "Pirate"
+        ],
+        "bounty": "366,000,000",
+        "race": [],
+        "origin": "East Blue (Conomi Islands)",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/6/68/Nami_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/298?cb=20190720162446"
+    },
+    {
+        "id": 3,
+        "name": "Usopp",
+        "eng_fruit": [],
+        "jpn_fruit": [],
+        "debut": "Chapter 23",
+        "status": [
+            "No Affiliation"
+        ],
+        "bounty": "500,000,000",
+        "race": [],
+        "origin": "East Blue (Gecko Islands)",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/3/35/Usopp_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/269?cb=20221127233827"
+    },
+    {
+        "id": 4,
+        "name": "Sanji",
+        "eng_fruit": [],
+        "jpn_fruit": [],
+        "debut": "Chapter 43",
+        "status": [
+            "No Affiliation"
+        ],
+        "bounty": "1,032,000,000",
+        "race": [],
+        "origin": "North Blue",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/b/b6/Sanji_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/167?cb=20170625125657"
+    },
+    {
+        "id": 5,
+        "name": "Tony Tony Chopper",
+        "eng_fruit": "Human-Human Fruit",
+        "jpn_fruit": "Hito Hito no Mi",
+        "debut": "Chapter 134",
+        "status": [
+            "No Affiliation"
+        ],
+        "bounty": "1,000",
+        "race": [],
+        "origin": "Grand Line (Drum Island)",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/a/af/Tony_Tony_Chopper_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/350?cb=20130428202154"
+    },
+    {
+        "id": 6,
+        "name": "Nico Robin",
+        "eng_fruit": "Hana-Hana Fruit",
+        "jpn_fruit": "Hana Hana no Mi",
+        "debut": "Chapter 114",
+        "status": [
+            "Revolutionary"
+        ],
+        "bounty": "930,000,000",
+        "race": [],
+        "origin": "West Blue",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/b/bc/Nico_Robin_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/257?cb=20190202051257"
+    },
+    {
+        "id": 7,
+        "name": "Franky",
+        "eng_fruit": [],
+        "jpn_fruit": [],
+        "debut": "Chapter 329",
+        "status": [
+            "No Affiliation"
+        ],
+        "bounty": "394,000,000",
+        "race": [],
+        "origin": "South Blue",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/8/8c/Franky_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/350?cb=20130225034035"
+    },
+    {
+        "id": 8,
+        "name": "Brook",
+        "eng_fruit": "Revive-Revive Fruit",
+        "jpn_fruit": "Yomi Yomi no Mi",
+        "debut": "Chapter 442",
+        "status": [
+            "Pirate"
+        ],
+        "bounty": "383,000,000",
+        "race": [],
+        "origin": "West Blue",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/4/41/Brook_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/214?cb=20161016160925"
+    },
+    {
+        "id": 9,
+        "name": "Jinbe",
+        "eng_fruit": [],
+        "jpn_fruit": [],
+        "debut": "Chapter 528",
+        "status": [
+            "Pirate"
+        ],
+        "bounty": "1,100,000,000",
+        "race": [],
+        "origin": "Grand Line (Ryugu Kingdom, Fish-Man Island)",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/8/81/Jinbe_Anime_Infobox.png/revision/latest/scale-to-width-down/350?cb=20170521201349"
+    },
+    {
+        "id": 10,
+        "name": "Gol D. Roger",
+        "eng_fruit": [],
+        "jpn_fruit": [],
+        "debut": "Chapter 1",
+        "status": [
+            "Pirate"
+        ],
+        "bounty": "5,564,800,000",
+        "race": [],
+        "origin": "East Blue (Loguetown)",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/2/24/Gol_D._Roger_Anime_Infobox.png/revision/latest/scale-to-width-down/350?cb=20230612100153"
+    },
+    {
+        "id": 11,
+        "name": "Portgas D. Ace",
+        "eng_fruit": "Flame-Flame Fruit",
+        "jpn_fruit": "Mera Mera no Mi",
+        "debut": "Chapter 154",
+        "status": [
+            "Pirate"
+        ],
+        "bounty": "550,000,000",
+        "race": [],
+        "origin": "South Blue (Baterilla)",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/4/4f/Portgas_D._Ace_Anime_Infobox.png/revision/latest/scale-to-width-down/262?cb=20220311194021"
+    },
+    {
+        "id": 12,
+        "name": "Trafalgar D. Water Law",
+        "eng_fruit": "Op-Op Fruit",
+        "jpn_fruit": "Ope Ope no Mi",
+        "debut": "Chapter 498",
+        "status": [
+            "Pirate"
+        ],
+        "bounty": "3,000,000,000",
+        "race": [],
+        "origin": "North Blue",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/4/4d/Trafalgar_D._Water_Law_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/222?cb=20230124163510"
+    },
+    {
+        "id": 13,
+        "name": "Boa Hancock",
+        "eng_fruit": "Love-Love Fruit",
+        "jpn_fruit": "It\u014d (young) no Mi",
+        "debut": "Chapter 516",
+        "status": [
+            "Pirate"
+        ],
+        "bounty": "1,659,000,000",
+        "race": [],
+        "origin": "Calm Belt (Amazon Lily)",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/f/f0/Boa_Hancock_Anime_Infobox.png/revision/latest/scale-to-width-down/242?cb=20230126022456"
+    },
+    {
+        "id": 14,
+        "name": "Buggy",
+        "eng_fruit": "Chop-Chop Fruit",
+        "jpn_fruit": "Bara Bara no Mi",
+        "debut": "Chapter 9",
+        "status": [
+            "Pirate"
+        ],
+        "bounty": "3,189,000,000",
+        "race": [],
+        "origin": "Grand Line",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/f/f7/Buggy_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/350?cb=20231022135508"
+    },
+    {
+        "id": 15,
+        "name": "Dracule Mihawk",
+        "eng_fruit": [],
+        "jpn_fruit": "Taka no Mi",
+        "debut": "Chapter 49",
+        "status": [
+            "Pirate"
+        ],
+        "bounty": "3,590,000,000",
+        "race": [],
+        "origin": [],
+        "image": "https://static.wikia.nocookie.net/onepiece/images/b/bf/Dracule_Mihawk_Anime_Infobox.png/revision/latest/scale-to-width-down/322?cb=20151222105910"
+    },
+    {
+        "id": 16,
+        "name": "Shanks",
+        "eng_fruit": [],
+        "jpn_fruit": [],
+        "debut": "Chapter 1",
+        "status": [
+            "No Affiliation"
+        ],
+        "bounty": "4,048,900,000",
+        "race": [],
+        "origin": "West Blue",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/6/66/Shanks_Anime_Infobox.png/revision/latest/scale-to-width-down/350?cb=20230201001138"
+    },
+    {
+        "id": 17,
+        "name": "Marshall D. Teach",
+        "eng_fruit": "Dark-Dark Fruit",
+        "jpn_fruit": "Yami Yami no Mi",
+        "debut": "Chapter 223",
+        "status": [
+            "Pirate"
+        ],
+        "bounty": "3,996,000,000",
+        "race": [],
+        "origin": "Grand Line",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/f/ff/Marshall_D._Teach_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/350?cb=20230406004248"
+    },
+    {
+        "id": 18,
+        "name": "Edward Newgate",
+        "eng_fruit": "Tremor-Tremor Fruit",
+        "jpn_fruit": "Gura Gura no Mi",
+        "debut": "Chapter 159",
+        "status": [
+            "Pirate"
+        ],
+        "bounty": "5,046,000,000",
+        "race": [],
+        "origin": "Grand Line",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/b/b7/Edward_Newgate_Anime_Infobox.png/revision/latest/scale-to-width-down/350?cb=20220926165737"
+    },
+    {
+        "id": 19,
+        "name": "Kaidou",
+        "eng_fruit": "Fish-Fish Fruit",
+        "jpn_fruit": "Uo Uo no Mi",
+        "debut": "Chapter 795",
+        "status": [
+            "No Affiliation"
+        ],
+        "bounty": "4,611,100,000",
+        "race": [],
+        "origin": "Grand Line",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/2/2d/Kaidou_Anime_Infobox.png/revision/latest/scale-to-width-down/350?cb=20231102015517"
+    },
+    {
+        "id": 20,
+        "name": "Charlotte Linlin",
+        "eng_fruit": "Soul-Soul Fruit",
+        "jpn_fruit": "Soru Soru no Mi",
+        "debut": "Chapter 651",
+        "status": [
+            "Pirate"
+        ],
+        "bounty": "4,388,000,000",
+        "race": [],
+        "origin": "Grand Line",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/d/d8/Charlotte_Linlin_Anime_Infobox.png/revision/latest/scale-to-width-down/350?cb=20180423150804"
+    },
+    {
+        "id": 21,
+        "name": "Sakazuki",
+        "eng_fruit": "Magma-Magma Fruit",
+        "jpn_fruit": "Magu Magu no Mi",
+        "debut": "Chapter 397",
+        "status": [
+            "No Affiliation"
+        ],
+        "bounty": [],
+        "race": [],
+        "origin": "North Blue",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/d/d7/Sakazuki_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/299?cb=20220829052511"
+    },
+    {
+        "id": 22,
+        "name": "Kuzan",
+        "eng_fruit": "Ice-Ice Fruit",
+        "jpn_fruit": "Hie Hie no Mi",
+        "debut": "Chapter 303",
+        "status": [
+            "Pirate"
+        ],
+        "bounty": [],
+        "race": [],
+        "origin": "South Blue",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/d/d6/Kuzan_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/242?cb=20130902174645"
+    },
+    {
+        "id": 23,
+        "name": "Borsalino",
+        "eng_fruit": "Glint-Glint Fruit",
+        "jpn_fruit": "Pika Pika no Mi",
+        "debut": "Chapter 504",
+        "status": [
+            "No Affiliation"
+        ],
+        "bounty": "(3,000,000,000)",
+        "race": [],
+        "origin": "North Blue",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/1/14/Borsalino_Anime_Infobox.png/revision/latest/scale-to-width-down/248?cb=20190603023753"
+    },
+    {
+        "id": 24,
+        "name": "Smoker",
+        "eng_fruit": "Smoke-Smoke Fruit",
+        "jpn_fruit": "Moku Moku no Mi",
+        "debut": "Chapter 97",
+        "status": [
+            "No Affiliation"
+        ],
+        "bounty": [],
+        "race": [],
+        "origin": "Grand Line",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/c/c4/Smoker_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/350?cb=20221101011905"
+    },
+    {
+        "id": 25,
+        "name": "Donquixote Doflamingo",
+        "eng_fruit": "String-String Fruit",
+        "jpn_fruit": "Ito Ito no Mi",
+        "debut": "Chapter 233",
+        "status": [
+            "Pirate"
+        ],
+        "bounty": "340,000,000",
+        "race": [],
+        "origin": "Red Line (Mary Geoise)",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/7/7e/Donquixote_Doflamingo_Anime_Infobox.png/revision/latest/scale-to-width-down/350?cb=20231017082245"
+    },
+    {
+        "id": 26,
+        "name": "Crocodile",
+        "eng_fruit": "Sand-Sand Fruit",
+        "jpn_fruit": "Suna Suna no Mi",
+        "debut": "Chapter 126",
+        "status": [
+            "Pirate"
+        ],
+        "bounty": "1,965,000,000",
+        "race": [],
+        "origin": "Grand Line",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/f/fd/Crocodile_Anime_Infobox.png/revision/latest/scale-to-width-down/350?cb=20230125235528"
+    },
+    {
+        "id": 27,
+        "name": "Eustass Kid",
+        "eng_fruit": "Magnet-Magnet Fruit",
+        "jpn_fruit": "Jiki Jiki no Mi",
+        "debut": "Chapter 498",
+        "status": [
+            "Pirate"
+        ],
+        "bounty": "3,000,000,000",
+        "race": [],
+        "origin": "South Blue",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/4/47/Eustass_Kid_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/350?cb=20220618155553"
+    },
+    {
+        "id": 28,
+        "name": "Scratchmen Apoo",
+        "eng_fruit": "Tone-Tone Fruit",
+        "jpn_fruit": "Oto Oto no Mi",
+        "debut": "Chapter 498",
+        "status": [
+            "Pirate"
+        ],
+        "bounty": "350,000,000",
+        "race": [],
+        "origin": "Grand Line",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/d/d0/Scratchmen_Apoo_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/350?cb=20210426143015"
+    },
+    {
+        "id": 29,
+        "name": "Basil Hawkins",
+        "eng_fruit": "Straw-Straw Fruit",
+        "jpn_fruit": "Wara Wara no Mi",
+        "debut": "Chapter 498",
+        "status": [
+            "Pirate"
+        ],
+        "bounty": "320,000,000",
+        "race": [],
+        "origin": "North Blue",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/f/f8/Basil_Hawkins_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/350?cb=20230906163534"
+    },
+    {
+        "id": 30,
+        "name": "Jewelry Bonney",
+        "eng_fruit": [],
+        "jpn_fruit": "Toshi Toshi no Mi",
+        "debut": "Chapter 498",
+        "status": [
+            "Pirate"
+        ],
+        "bounty": "320,000,000",
+        "race": [],
+        "origin": "South Blue",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/6/62/Jewelry_Bonney_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/333?cb=20230123001318"
+    },
+    {
+        "id": 31,
+        "name": "X Drake",
+        "eng_fruit": "Dragon-Dragon Fruit",
+        "jpn_fruit": "Ryu Ryu no Mi",
+        "debut": "Chapter 498",
+        "status": [
+            "Pirate",
+            "Marine"
+        ],
+        "bounty": "222,000,000",
+        "race": [],
+        "origin": "North Blue",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/0/04/X_Drake_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/296?cb=20200209080003"
+    },
+    {
+        "id": 32,
+        "name": "Cavendish",
+        "eng_fruit": [],
+        "jpn_fruit": [],
+        "debut": "Chapter 704",
+        "status": [
+            "No Affiliation"
+        ],
+        "bounty": "330,000,000",
+        "race": [],
+        "origin": "Grand Line (Bourgeois Kingdom)",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/a/a1/Cavendish_Anime_Infobox.png/revision/latest/scale-to-width-down/257?cb=20140224010824"
+    },
+    {
+        "id": 33,
+        "name": "Bartolomeo",
+        "eng_fruit": "Barrier-Barrier Fruit",
+        "jpn_fruit": "Bari Bari no Mi",
+        "debut": "Chapter 705",
+        "status": [
+            "Pirate"
+        ],
+        "bounty": "200,000,000",
+        "race": [],
+        "origin": "East Blue",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/e/eb/Bartolomeo_Anime_Infobox.png/revision/latest/scale-to-width-down/220?cb=20221027202808"
+    },
+    {
+        "id": 34,
+        "name": "Sabo",
+        "eng_fruit": "Flame-Flame Fruit",
+        "jpn_fruit": "Mera Mera no Mi",
+        "debut": "Chapter 583",
+        "status": [
+            "Pirate",
+            "Revolutionary"
+        ],
+        "bounty": "602,000,000",
+        "race": [],
+        "origin": "East Blue (Goa Kingdom)",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/c/c2/Sabo_Anime_Infobox.png/revision/latest/scale-to-width-down/330?cb=20230804035141"
+    },
+    {
+        "id": 35,
+        "name": "Rebecca",
+        "eng_fruit": [],
+        "jpn_fruit": [],
+        "debut": "Chapter 704",
+        "status": [
+            "No Affiliation"
+        ],
+        "bounty": [],
+        "race": [],
+        "origin": "Grand Line (Dressrosa)",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/f/f6/Rebecca_Anime_Infobox.png/revision/latest/scale-to-width-down/240?cb=20190519094508"
+    },
+    {
+        "id": 36,
+        "name": "Nefertari Vivi",
+        "eng_fruit": [],
+        "jpn_fruit": [],
+        "debut": "Chapter 103",
+        "status": [
+            "Pirate"
+        ],
+        "bounty": [],
+        "race": [],
+        "origin": "Grand Line (Arabasta Kingdom)",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/0/09/Nefertari_Vivi_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/182?cb=20190505023647"
+    },
+    {
+        "id": 37,
+        "name": "Carrot",
+        "eng_fruit": [],
+        "jpn_fruit": [],
+        "debut": "Chapter 804",
+        "status": [
+            "No Affiliation"
+        ],
+        "bounty": [],
+        "race": [],
+        "origin": "Grand Line (Mokomo Dukedom)",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/e/e2/Carrot_Anime_Infobox.png/revision/latest/scale-to-width-down/188?cb=20180826142459"
+    },
+    {
+        "id": 38,
+        "name": "Yamato",
+        "eng_fruit": "Dog-Dog Fruit",
+        "jpn_fruit": "Inu Inu no Mi",
+        "debut": "Chapter 971",
+        "status": [
+            "No Affiliation"
+        ],
+        "bounty": [],
+        "race": [],
+        "origin": [],
+        "image": "https://static.wikia.nocookie.net/onepiece/images/b/bd/Yamato_Anime_Infobox.png/revision/latest/scale-to-width-down/350?cb=20220119060149"
+    },
+    {
+        "id": 39,
+        "name": "Tashigi",
+        "eng_fruit": [],
+        "jpn_fruit": [],
+        "debut": "Chapter 96",
+        "status": [
+            "No Affiliation"
+        ],
+        "bounty": [],
+        "race": [],
+        "origin": "East Blue",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/1/1e/Tashigi_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/327?cb=20230909002901"
+    },
+    {
+        "id": 40,
+        "name": "Sanji",
+        "eng_fruit": [],
+        "jpn_fruit": [],
+        "debut": "Chapter 43",
+        "status": [
+            "No Affiliation"
+        ],
+        "bounty": "1,032,000,000",
+        "race": [],
+        "origin": "North Blue",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/b/b6/Sanji_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/167?cb=20170625125657"
+    },
+    {
+        "id": 41,
+        "name": "Enel",
+        "eng_fruit": "Rumble-Rumble Fruit",
+        "jpn_fruit": "Goro Goro no Mi",
+        "debut": "Chapter 254",
+        "status": [
+            "No Affiliation"
+        ],
+        "bounty": [],
+        "race": [],
+        "origin": "Sky Islands (Birka)",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/a/ad/Enel_Anime_Infobox.png/revision/latest/scale-to-width-down/350?cb=20230520213625"
+    },
+    {
+        "id": 42,
+        "name": "Monkey D. Garp",
+        "eng_fruit": [],
+        "jpn_fruit": [],
+        "debut": "Chapter 92",
+        "status": [
+            "No Affiliation"
+        ],
+        "bounty": "(3,000,000,000)",
+        "race": [],
+        "origin": "East Blue (Goa Kingdom)",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/e/e1/Monkey_D._Garp_Anime_Infobox.png/revision/latest/scale-to-width-down/350?cb=20230207160645"
+    },
+    {
+        "id": 43,
+        "name": "Silvers Rayleigh",
+        "eng_fruit": [],
+        "jpn_fruit": [],
+        "debut": "Chapter 19",
+        "status": [
+            "Pirate"
+        ],
+        "bounty": "Unknown",
+        "race": [],
+        "origin": [],
+        "image": "https://static.wikia.nocookie.net/onepiece/images/b/b1/Silvers_Rayleigh_Anime_Infobox.png/revision/latest/scale-to-width-down/262?cb=20230601221758"
+    },
+    {
+        "id": 44,
+        "name": "Sengoku",
+        "eng_fruit": "Human-Human Fruit",
+        "jpn_fruit": "Hito Hito no Mi",
+        "debut": "Chapter 234",
+        "status": [
+            "No Affiliation"
+        ],
+        "bounty": [],
+        "race": [],
+        "origin": "South Blue",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/2/24/Sengoku_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/350?cb=20210208064630"
+    },
+    {
+        "id": 45,
+        "name": "Koby",
+        "eng_fruit": [],
+        "jpn_fruit": [],
+        "debut": "Chapter 2",
+        "status": [
+            "Pirate",
+            "Marine"
+        ],
+        "bounty": "500,000,000",
+        "race": [],
+        "origin": "East Blue",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/b/b8/Koby_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/350?cb=20230227233927"
+    },
+    {
+        "id": 46,
+        "name": "Helmeppo",
+        "eng_fruit": [],
+        "jpn_fruit": [],
+        "debut": "Chapter 3",
+        "status": [
+            "No Affiliation"
+        ],
+        "bounty": [],
+        "race": [],
+        "origin": [],
+        "image": "https://static.wikia.nocookie.net/onepiece/images/a/a3/Helmeppo_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/265?cb=20230723204723"
+    },
+    {
+        "id": 47,
+        "name": "Smoker",
+        "eng_fruit": "Smoke-Smoke Fruit",
+        "jpn_fruit": "Moku Moku no Mi",
+        "debut": "Chapter 97",
+        "status": [
+            "No Affiliation"
+        ],
+        "bounty": [],
+        "race": [],
+        "origin": "Grand Line",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/c/c4/Smoker_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/350?cb=20221101011905"
+    },
+    {
+        "id": 48,
+        "name": "Tashigi",
+        "eng_fruit": [],
+        "jpn_fruit": [],
+        "debut": "Chapter 96",
+        "status": [
+            "No Affiliation"
+        ],
+        "bounty": [],
+        "race": [],
+        "origin": "East Blue",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/1/1e/Tashigi_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/327?cb=20230909002901"
+    },
+    {
+        "id": 49,
+        "name": "Koby",
+        "eng_fruit": [],
+        "jpn_fruit": [],
+        "debut": "Chapter 2",
+        "status": [
+            "Pirate",
+            "Marine"
+        ],
+        "bounty": "500,000,000",
+        "race": [],
+        "origin": "East Blue",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/b/b8/Koby_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/350?cb=20230227233927"
+    },
+    {
+        "id": 50,
+        "name": "Hina",
+        "eng_fruit": "Bind-Bind Fruit",
+        "jpn_fruit": "Ori Ori no Mi",
+        "debut": "Chapter 171",
+        "status": [
+            "No Affiliation"
+        ],
+        "bounty": [],
+        "race": [],
+        "origin": "West Blue",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/0/0d/Hina_Anime_Infobox.png/revision/latest/scale-to-width-down/350?cb=20221027015902"
+    },
+    {
+        "id": 51,
+        "name": "Donquixote Rosinante",
+        "eng_fruit": "Calm-Calm Fruit",
+        "jpn_fruit": "Nagi Nagi no Mi",
+        "debut": "Chapter 761",
+        "status": [
+            "Pirate",
+            "Marine"
+        ],
+        "bounty": [],
+        "race": [],
+        "origin": "Red Line (Mary Geoise)",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/7/71/Donquixote_Rosinante_Anime_Infobox.png/revision/latest/scale-to-width-down/337?cb=20150802160734"
+    },
+    {
+        "id": 52,
+        "name": "Bartholomew Kuma",
+        "eng_fruit": "Paw-Paw Fruit",
+        "jpn_fruit": "Nikyu Nikyu no Mi",
+        "debut": "Chapter 233",
+        "status": [
+            "Revolutionary"
+        ],
+        "bounty": "296,000,000",
+        "race": [],
+        "origin": "South Blue (Sorbet Kingdom)",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/8/8d/Bartholomew_Kuma_Anime_Infobox.png/revision/latest/scale-to-width-down/297?cb=20221012030835"
+    },
+    {
+        "id": 53,
+        "name": "Perona",
+        "eng_fruit": "Hollow-Hollow Fruit",
+        "jpn_fruit": "Horo Horo no Mi",
+        "debut": "Chapter 443",
+        "status": [
+            "Pirate"
+        ],
+        "bounty": [],
+        "race": [],
+        "origin": "West Blue",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/4/4a/Perona_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/291?cb=20221124200121"
+    },
+    {
+        "id": 54,
+        "name": "Sentomaru",
+        "eng_fruit": [],
+        "jpn_fruit": [],
+        "debut": "Chapter 497",
+        "status": [
+            "Marine"
+        ],
+        "bounty": [],
+        "race": [],
+        "origin": "Grand Line",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/9/97/Sentomaru_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/350?cb=20230804030757"
+    },
+    {
+        "id": 55,
+        "name": "Kureha",
+        "eng_fruit": [],
+        "jpn_fruit": [],
+        "debut": "Chapter 134",
+        "status": [
+            "No Affiliation"
+        ],
+        "bounty": [],
+        "race": [],
+        "origin": "Grand Line (Drum Kingdom)",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/1/1b/Kureha_Anime_Infobox.png/revision/latest/scale-to-width-down/248?cb=20150819163116"
+    },
+    {
+        "id": 56,
+        "name": "Dalton",
+        "eng_fruit": "Ox-Ox Fruit",
+        "jpn_fruit": "Ushi Ushi no Mi",
+        "debut": "Chapter 132",
+        "status": [
+            "No Affiliation"
+        ],
+        "bounty": [],
+        "race": [],
+        "origin": "Grand Line (Drum Kingdom)",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/0/07/Dalton_Anime_Infobox.png/revision/latest/scale-to-width-down/350?cb=20230101225126"
+    },
+    {
+        "id": 57,
+        "name": "Bellamy",
+        "eng_fruit": "Boing-Boing Fruit",
+        "jpn_fruit": "Bane Bane no Mi",
+        "debut": "Chapter 222",
+        "status": [
+            "Pirate"
+        ],
+        "bounty": "195,000,000",
+        "race": [],
+        "origin": [],
+        "image": "https://static.wikia.nocookie.net/onepiece/images/2/27/Bellamy_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/173?cb=20230116235201"
+    },
+    {
+        "id": 58,
+        "name": "Wyper",
+        "eng_fruit": [],
+        "jpn_fruit": [],
+        "debut": "Chapter 237",
+        "status": [
+            "No Affiliation"
+        ],
+        "bounty": [],
+        "race": [],
+        "origin": "Sky Islands (Skypiea)",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/b/b9/Wyper_Manga_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/274?cb=20170309043945"
+    },
+    {
+        "id": 59,
+        "name": "Kalgara",
+        "eng_fruit": [],
+        "jpn_fruit": [],
+        "debut": "Chapter 286",
+        "status": [
+            "No Affiliation"
+        ],
+        "bounty": [],
+        "race": [],
+        "origin": "Grand Line",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/a/ad/Kalgara_Anime_Infobox.png/revision/latest/scale-to-width-down/273?cb=20160526193151"
+    },
+    {
+        "id": 60,
+        "name": "Gan Fall",
+        "eng_fruit": [],
+        "jpn_fruit": [],
+        "debut": "Chapter 237",
+        "status": [
+            "No Affiliation"
+        ],
+        "bounty": [],
+        "race": [],
+        "origin": "Grand Line (Skypiea)",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/5/5f/Gan_Fall_Anime_Infobox.png/revision/latest/scale-to-width-down/350?cb=20221111195904"
+    },
+    {
+        "id": 61,
+        "name": "Shirahoshi",
+        "eng_fruit": [],
+        "jpn_fruit": [],
+        "debut": "Chapter 612",
+        "status": [
+            "No Affiliation"
+        ],
+        "bounty": [],
+        "race": [],
+        "origin": "Grand Line (Ryugu Kingdom)",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/c/c1/Shirahoshi_Anime_Infobox.png/revision/latest/scale-to-width-down/350?cb=20130906192848"
+    },
+    {
+        "id": 62,
+        "name": "Fisher Tiger",
+        "eng_fruit": [],
+        "jpn_fruit": [],
+        "debut": "Chapter 521",
+        "status": [
+            "Pirate"
+        ],
+        "bounty": "230,000,000",
+        "race": [],
+        "origin": "Grand Line (Ryugu Kingdom)",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/c/c5/Fisher_Tiger_Anime_Infobox.png/revision/latest/scale-to-width-down/350?cb=20230214162116"
+    },
+    {
+        "id": 63,
+        "name": "Koala",
+        "eng_fruit": [],
+        "jpn_fruit": [],
+        "debut": "Chapter 622",
+        "status": [
+            "Revolutionary"
+        ],
+        "bounty": "Unknown",
+        "race": [],
+        "origin": [],
+        "image": "https://static.wikia.nocookie.net/onepiece/images/3/3d/Koala_Anime_Infobox.png/revision/latest/scale-to-width-down/308?cb=20140928211728"
+    },
+    {
+        "id": 64,
+        "name": "Hack",
+        "eng_fruit": [],
+        "jpn_fruit": [],
+        "debut": "Chapter 706",
+        "status": [
+            "No Affiliation"
+        ],
+        "bounty": [],
+        "race": [],
+        "origin": "Grand Line (Fish-Man Island)",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/4/43/Hack_Anime_Infobox.png/revision/latest/scale-to-width-down/350?cb=20230214000914"
+    },
+    {
+        "id": 65,
+        "name": "Jinbe",
+        "eng_fruit": [],
+        "jpn_fruit": [],
+        "debut": "Chapter 528",
+        "status": [
+            "Pirate"
+        ],
+        "bounty": "1,100,000,000",
+        "race": [],
+        "origin": "Grand Line (Ryugu Kingdom, Fish-Man Island)",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/8/81/Jinbe_Anime_Infobox.png/revision/latest/scale-to-width-down/350?cb=20170521201349"
+    },
+    {
+        "id": 66,
+        "name": "Koala",
+        "eng_fruit": [],
+        "jpn_fruit": [],
+        "debut": "Chapter 622",
+        "status": [
+            "Revolutionary"
+        ],
+        "bounty": "Unknown",
+        "race": [],
+        "origin": [],
+        "image": "https://static.wikia.nocookie.net/onepiece/images/3/3d/Koala_Anime_Infobox.png/revision/latest/scale-to-width-down/308?cb=20140928211728"
+    },
+    {
+        "id": 67,
+        "name": "Hack",
+        "eng_fruit": [],
+        "jpn_fruit": [],
+        "debut": "Chapter 706",
+        "status": [
+            "No Affiliation"
+        ],
+        "bounty": [],
+        "race": [],
+        "origin": "Grand Line (Fish-Man Island)",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/4/43/Hack_Anime_Infobox.png/revision/latest/scale-to-width-down/350?cb=20230214000914"
+    },
+    {
+        "id": 68,
+        "name": "Duval",
+        "eng_fruit": [],
+        "jpn_fruit": [],
+        "debut": "Chapter 491",
+        "status": [
+            "No Affiliation"
+        ],
+        "bounty": [],
+        "race": [],
+        "origin": "Grand Line",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/8/86/Duval_Anime_Infobox.png/revision/latest/scale-to-width-down/350?cb=20230707025409"
+    },
+    {
+        "id": 69,
+        "name": "Bartholomew Kuma",
+        "eng_fruit": "Paw-Paw Fruit",
+        "jpn_fruit": "Nikyu Nikyu no Mi",
+        "debut": "Chapter 233",
+        "status": [
+            "Revolutionary"
+        ],
+        "bounty": "At least 296,000,000",
+        "race": [],
+        "origin": "South Blue (Sorbet Kingdom)",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/8/8d/Bartholomew_Kuma_Anime_Infobox.png/revision/latest/scale-to-width-down/297?cb=20221012030835"
+    },
+    {
+        "id": 70,
+        "name": "Perona",
+        "eng_fruit": "Hollow-Hollow Fruit",
+        "jpn_fruit": "Horo Horo no Mi",
+        "debut": "Chapter 443",
+        "status": [
+            "Pirate"
+        ],
+        "bounty": [],
+        "race": [],
+        "origin": "West Blue",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/4/4a/Perona_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/291?cb=20221124200121"
+    },
+    {
+        "id": 71,
+        "name": "Donquixote Rosinante",
+        "eng_fruit": "Calm-Calm Fruit",
+        "jpn_fruit": "Nagi Nagi no Mi",
+        "debut": "Chapter 761",
+        "status": [
+            "Pirate",
+            "Marine"
+        ],
+        "bounty": [],
+        "race": [],
+        "origin": "Red Line (Mary Geoise)",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/7/71/Donquixote_Rosinante_Anime_Infobox.png/revision/latest/scale-to-width-down/337?cb=20150802160734"
+    },
+    {
+        "id": 72,
+        "name": "Hina",
+        "eng_fruit": "Bind-Bind Fruit",
+        "jpn_fruit": "Ori Ori no Mi",
+        "debut": "Chapter 171",
+        "status": [
+            "No Affiliation"
+        ],
+        "bounty": [],
+        "race": [],
+        "origin": "West Blue",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/0/0d/Hina_Anime_Infobox.png/revision/latest/scale-to-width-down/350?cb=20221027015902"
+    },
+    {
+        "id": 73,
+        "name": "Donquixote Doflamingo",
+        "eng_fruit": "String-String Fruit",
+        "jpn_fruit": "Ito Ito no Mi",
+        "debut": "Chapter 233",
+        "status": [
+            "Pirate"
+        ],
+        "bounty": "340,000,000",
+        "race": [],
+        "origin": "Red Line (Mary Geoise)",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/7/7e/Donquixote_Doflamingo_Anime_Infobox.png/revision/latest/scale-to-width-down/350?cb=20231017082245"
+    },
+    {
+        "id": 74,
+        "name": "Sugar",
+        "eng_fruit": "Hobby-Hobby Fruit",
+        "jpn_fruit": "Hobi Hobi no Mi",
+        "debut": "Chapter 682",
+        "status": [
+            "Pirate"
+        ],
+        "bounty": [],
+        "race": [],
+        "origin": "North Blue",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/e/e9/Sugar_Anime_Infobox.png/revision/latest/scale-to-width-down/300?cb=20141005232110"
+    },
+    {
+        "id": 75,
+        "name": "Trebol",
+        "eng_fruit": "Stick-Stick Fruit",
+        "jpn_fruit": "Beta Beta no Mi",
+        "debut": "Chapter 700",
+        "status": [
+            "Pirate"
+        ],
+        "bounty": "99,000,000",
+        "race": [],
+        "origin": "North Blue",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/f/f5/Trebol_Anime_Infobox.png/revision/latest/scale-to-width-down/350?cb=20221117040446"
+    },
+    {
+        "id": 76,
+        "name": "Baby 5",
+        "eng_fruit": "Arms-Arms Fruit",
+        "jpn_fruit": "Buki Buki no Mi",
+        "debut": "Chapter 682",
+        "status": [
+            "Pirate"
+        ],
+        "bounty": [],
+        "race": [],
+        "origin": "North Blue",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/e/e1/Baby_5_Anime_Infobox.png/revision/latest/scale-to-width-down/216?cb=20221011013323"
+    },
+    {
+        "id": 77,
+        "name": "Buffalo",
+        "eng_fruit": "Spin-Spin Fruit",
+        "jpn_fruit": "Guru Guru no Mi",
+        "debut": "Chapter 692",
+        "status": [
+            "Pirate"
+        ],
+        "bounty": [],
+        "race": [],
+        "origin": "North Blue",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/a/ab/Buffalo_Anime_Infobox.png/revision/latest/scale-to-width-down/350?cb=20131104002420"
+    },
+    {
+        "id": 78,
+        "name": "Vergo",
+        "eng_fruit": [],
+        "jpn_fruit": [],
+        "debut": "Chapter 671",
+        "status": [
+            "Pirate",
+            "Marine"
+        ],
+        "bounty": [],
+        "race": [],
+        "origin": "North Blue",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/c/cf/Vergo_Anime_Infobox.png/revision/latest/scale-to-width-down/220?cb=20230101232239"
+    },
+    {
+        "id": 79,
+        "name": "Monet",
+        "eng_fruit": "Snow-Snow Fruit",
+        "jpn_fruit": "Yuki Yuki no Mi",
+        "debut": "Chapter 657",
+        "status": [
+            "Pirate"
+        ],
+        "bounty": [],
+        "race": [],
+        "origin": "North Blue",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/9/98/Monet_Anime_Infobox.png/revision/latest/scale-to-width-down/321?cb=20140616000310"
+    },
+    {
+        "id": 80,
+        "name": "Kin'emon",
+        "eng_fruit": "Funimation);Garb-Garb Fruit",
+        "jpn_fruit": "Fuku Fuku no Mi",
+        "debut": "Chapter 656",
+        "status": [
+            "No Affiliation"
+        ],
+        "bounty": [],
+        "race": [],
+        "origin": "Grand Line (Wano Country)",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/e/ec/Kin%27emon_Anime_Infobox.png/revision/latest/scale-to-width-down/270?cb=20191124100115"
+    },
+    {
+        "id": 81,
+        "name": "Kurozumi Kanjuro",
+        "eng_fruit": "Brush-Brush Fruit",
+        "jpn_fruit": "Fude Fude no Mi",
+        "debut": "Chapter 700",
+        "status": [
+            "No Affiliation"
+        ],
+        "bounty": [],
+        "race": [],
+        "origin": "Grand Line (Wano Country)",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/a/ad/Kurozumi_Kanjuro_Anime_Infobox.png/revision/latest/scale-to-width-down/350?cb=20150503144042"
+    },
+    {
+        "id": 82,
+        "name": "Raizo",
+        "eng_fruit": "(VIZ);Scroll-Scroll Fruit",
+        "jpn_fruit": "Maki Maki no Mi",
+        "debut": "Chapter 817",
+        "status": [
+            "No Affiliation"
+        ],
+        "bounty": [],
+        "race": [],
+        "origin": "Grand Line (Wano Country)",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/2/23/Raizo_Anime_Infobox.png/revision/latest/scale-to-width-down/350?cb=20161218152812"
+    },
+    {
+        "id": 83,
+        "name": "Inuarashi",
+        "eng_fruit": [],
+        "jpn_fruit": [],
+        "debut": "Chapter 808",
+        "status": [
+            "Pirate"
+        ],
+        "bounty": [],
+        "race": [],
+        "origin": "Grand Line (Mokomo Dukedom)",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/9/9f/Inuarashi_Anime_Infobox.png/revision/latest/scale-to-width-down/340?cb=20161225210311"
+    },
+    {
+        "id": 84,
+        "name": "Nekomamushi",
+        "eng_fruit": [],
+        "jpn_fruit": [],
+        "debut": "Chapter 809",
+        "status": [
+            "Pirate"
+        ],
+        "bounty": [],
+        "race": [],
+        "origin": "Grand Line (Mokomo Dukedom)",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/a/a2/Nekomamushi_Anime_Infobox.png/revision/latest/scale-to-width-down/350?cb=20220419121421"
+    },
+    {
+        "id": 85,
+        "name": "Marco",
+        "eng_fruit": "Bird-Bird Fruit",
+        "jpn_fruit": "Tori Tori no Mi",
+        "debut": "Chapter 234",
+        "status": [
+            "No Affiliation"
+        ],
+        "bounty": "1,374,000,000",
+        "race": [],
+        "origin": "Grand Line",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/2/2c/Marco_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/179?cb=20221010015200"
+    },
+    {
+        "id": 86,
+        "name": "Jozu",
+        "eng_fruit": "Twinkle-Twinkle Fruit",
+        "jpn_fruit": "Kira Kira no Mi",
+        "debut": "Chapter 234",
+        "status": [
+            "Pirate"
+        ],
+        "bounty": "Unknown",
+        "race": [],
+        "origin": "West Blue",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/6/61/Jozu_Anime_Infobox.png/revision/latest/scale-to-width-down/350?cb=20220702104233"
+    },
+    {
+        "id": 87,
+        "name": "Vista",
+        "eng_fruit": [],
+        "jpn_fruit": [],
+        "debut": "Chapter 552",
+        "status": [
+            "Pirate"
+        ],
+        "bounty": "Unknown",
+        "race": [],
+        "origin": "North Blue",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/7/78/Vista_Anime_Infobox.png/revision/latest/scale-to-width-down/339?cb=20180131180522"
+    },
+    {
+        "id": 88,
+        "name": "Blenheim",
+        "eng_fruit": [],
+        "jpn_fruit": [],
+        "debut": "Chapter 553",
+        "status": [
+            "Pirate"
+        ],
+        "bounty": [],
+        "race": [],
+        "origin": "Grand Line",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/4/40/Blenheim_Anime_Infobox.png/revision/latest/scale-to-width-down/350?cb=20130315043150"
+    },
+    {
+        "id": 89,
+        "name": "Speed Jiru",
+        "eng_fruit": [],
+        "jpn_fruit": [],
+        "debut": "Chapter 553",
+        "status": [
+            "Pirate"
+        ],
+        "bounty": [],
+        "race": [],
+        "origin": "East Blue",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/4/45/Speed_Jiru_Anime_Infobox.png/revision/latest?cb=20100908105640"
+    },
+    {
+        "id": 90,
+        "name": "Izou",
+        "eng_fruit": [],
+        "jpn_fruit": [],
+        "debut": "Chapter 553",
+        "status": [
+            "No Affiliation"
+        ],
+        "bounty": "510,000,000",
+        "race": [],
+        "origin": "Grand Line (Wano Country)",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/8/81/Izou_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/318?cb=20210919035558"
+    },
+    {
+        "id": 91,
+        "name": "Oars",
+        "eng_fruit": [],
+        "jpn_fruit": [],
+        "debut": "Chapter 456",
+        "status": [
+            "No Affiliation"
+        ],
+        "bounty": [],
+        "race": [],
+        "origin": "North Blue",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/5/55/Oars_Anime_Infobox.png/revision/latest/scale-to-width-down/350?cb=20230528185603"
+    },
+    {
+        "id": 92,
+        "name": "Little Oars Jr.",
+        "eng_fruit": [],
+        "jpn_fruit": [],
+        "debut": "Chapter 554",
+        "status": [
+            "Pirate"
+        ],
+        "bounty": "550,000,000",
+        "race": [],
+        "origin": "Grand Line",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/b/bc/Little_Oars_Jr._Anime_Infobox.png/revision/latest/scale-to-width-down/350?cb=20100906175818"
+    },
+    {
+        "id": 93,
+        "name": "Charlotte Lola",
+        "eng_fruit": [],
+        "jpn_fruit": [],
+        "debut": "Chapter 476",
+        "status": [
+            "Pirate"
+        ],
+        "bounty": "24,000,000",
+        "race": [],
+        "origin": "Grand Line (Totto Land)",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/f/f0/Charlotte_Lola_Manga_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/348?cb=20201012081800"
+    },
+    {
+        "id": 94,
+        "name": "Victoria Cindry",
+        "eng_fruit": [],
+        "jpn_fruit": [],
+        "debut": "Chapter 446",
+        "status": [
+            "No Affiliation"
+        ],
+        "bounty": [],
+        "race": [],
+        "origin": "West Blue",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/5/5f/Victoria_Cindry_Anime_Infobox.png/revision/latest/scale-to-width-down/342?cb=20131110234954"
+    },
+    {
+        "id": 95,
+        "name": "Oars",
+        "eng_fruit": [],
+        "jpn_fruit": [],
+        "debut": "Chapter 456",
+        "status": [
+            "No Affiliation"
+        ],
+        "bounty": [],
+        "race": [],
+        "origin": "North Blue",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/5/55/Oars_Anime_Infobox.png/revision/latest/scale-to-width-down/350?cb=20230528185603"
+    },
+    {
+        "id": 96,
+        "name": "Gecko Moria",
+        "eng_fruit": "Shadow-Shadow Fruit",
+        "jpn_fruit": "Kage Kage no Mi",
+        "debut": "Chapter 449",
+        "status": [
+            "Pirate"
+        ],
+        "bounty": "320,000,000",
+        "race": [],
+        "origin": "West Blue",
+        "image": "https://static.wikia.nocookie.net/onepiece/images/b/be/Gecko_Moria_Anime_Infobox.png/revision/latest/scale-to-width-down/350?cb=20181127062446"
+    }
+]
