@@ -1,7 +1,8 @@
 import React from 'react'
 import './AttemptCard.css'
+import data from '../data/characters.json'
 
-export default function AttemptCard(props) {
+export default function AttemptCard(props) { 
 
     return (
         <div id='AttemptCard'>

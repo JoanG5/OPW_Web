@@ -9,7 +9,6 @@ function SearchBar( {div, setDiv} ) {
     }
 
     const handleDiv = () => {
-        console.log(submit)
         if (submit.trim () != '') {
             setDiv(prevDiv => [submit, ...prevDiv,])
             setSubmit('')
